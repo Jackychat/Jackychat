@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="360" viewBox="0 0 1080 360" role="img" aria-labelledby="title desc">
+<title id="title">AINEXOR — Build the next impossible</title>
+<desc id="desc">Futuristic dark blue technology banner with a friendly floating robot, blue and gold lighting, and subtle animation.</desc>
+<defs>
+  <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101e"/><stop offset=".55" stop-color="#0a1830"/><stop offset="1" stop-color="#0b1022"/></linearGradient>
+  <radialGradient id="shine" cx=".78" cy=".47" r=".55"><stop stop-color="#0b78a1" stop-opacity=".37"/><stop offset="1" stop-color="#0b78a1" stop-opacity="0"/></radialGradient>
+  <linearGradient id="name" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#ffffff"/><stop offset=".52" stop-color="#b8f5ff"/><stop offset="1" stop-color="#3adcec"/></linearGradient>
+  <linearGradient id="metal" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#d8f5ff"/><stop offset=".38" stop-color="#80a9c2"/><stop offset=".76" stop-color="#345b79"/><stop offset="1" stop-color="#c1e4ef"/></linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#ffe69b"/><stop offset="1" stop-color="#e6a63e"/></linearGradient>
+  <filter id="softglow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="11"/></filter>
+  <filter id="tinyglow" x="-150%" y="-150%" width="400%" height="400%"><feGaussianBlur stdDeviation="3.8"/></filter>
+  <pattern id="grid" width="41" height="41" patternUnits="userSpaceOnUse"><path d="M41 0H0V41" fill="none" stroke="#4fdcff" stroke-opacity=".075" stroke-width="1"/></pattern>
+</defs>
+<rect width="1080" height="360" rx="25" fill="url(#back)"/>
+<rect width="1080" height="360" rx="25" fill="url(#shine)"/>
+<rect x="1.5" y="1.5" width="1077" height="357" rx="24" fill="none" stroke="#6bd2e8" stroke-opacity=".23" stroke-width="2"/>
+<g opacity=".55"><rect x="0" y="0" width="1080" height="360" rx="25" fill="url(#grid)"/></g>
+<path d="M0 297C178 245 331 346 533 284S871 264 1080 220" fill="none" stroke="#49dff9" stroke-opacity=".14" stroke-width="1.5"/>
+<path d="M0 318C206 272 372 358 555 307S850 280 1080 251" fill="none" stroke="#efbc66" stroke-opacity=".12" stroke-width="1.5"/>
+<path d="M45 47H102" stroke="#50dffc" stroke-width="3" stroke-linecap="round"/>
+<path d="M45 47V71" stroke="#50dffc" stroke-width="3" stroke-linecap="round"/>
+<rect x="48" y="78" width="228" height="30" rx="15" fill="#0b2739" stroke="#2fc5db" stroke-opacity=".42"/>
+<circle cx="65" cy="93" r="4.2" fill="#57e5ce"><animate attributeName="opacity" values="1;.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="79" y="97" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2.1" fill="#8ce8f5">INNOVATION ENGINE / ONLINE</text>
+<text x="44" y="205" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="900" letter-spacing="7.5" fill="url(#name)">AINEXOR</text>
+<rect x="47" y="221" width="440" height="2.5" rx="1" fill="#37e0f5" opacity=".65"/>
+<rect x="47" y="221" width="90" height="2.5" rx="1" fill="#fff5b8"><animate attributeName="x" values="47;395;47" dur="6s" repeatCount="indefinite"/></rect>
+<text x="48" y="261" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#eaf5fc">BUILDING WHAT'S NEXT</text>
+<text x="48" y="293" font-family="Arial,Helvetica,sans-serif" font-size="13.5" letter-spacing="2.6" fill="#85a8bb">ARTIFICIAL INTELLIGENCE  •  AUTOMATION  •  ENGINEERING</text>
+<g opacity=".75" fill="#85e7ef">
+<circle cx="548" cy="99" r="2.8"><animate attributeName="opacity" values=".15;1;.15" dur="4.1s" repeatCount="indefinite"/></circle>
+<circle cx="643" cy="38" r="2"/><circle cx="706" cy="275" r="1.8"/><circle cx="1017" cy="86" r="2.2"/>
+<circle cx="566" cy="286" r="1.6"/><circle cx="965" cy="298" r="2.1"/>
+</g>
+<g transform="translate(854 179)">
+<circle r="137" fill="#2aceed" opacity=".08" filter="url(#softglow)"/>
+<circle r="129" fill="none" stroke="#54cfe9" stroke-width="1.4" stroke-opacity=".23" stroke-dasharray="7 12"/>
+<circle r="107" fill="none" stroke="#4de0f6" stroke-opacity=".32" stroke-width="2" stroke-dasharray="99 18 12 27">
+  <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+</circle>
+<circle r="91" fill="none" stroke="#efc978" stroke-opacity=".38" stroke-width="1.5" stroke-dasharray="3 13">
+  <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="29s" repeatCount="indefinite"/>
+</circle>
+<circle cx="-105" cy="48" r="5" fill="#f8cc75" opacity=".85"/>
+<circle cx="111" cy="-57" r="4" fill="#6deeff" opacity=".95"/>
+<ellipse cx="0" cy="108" rx="55" ry="9" fill="#00d7f0" opacity=".27" filter="url(#tinyglow)">
+ <animate attributeName="rx" values="53;41;53" dur="2.9s" repeatCount="indefinite"/>
+</ellipse>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 6;0 -14;0 6" dur="2.9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".35 0 .65 1;.35 0 .65 1"/>
+<g transform="translate(0 2)">
+  <path d="M-52 34L-68 44L-70 66L-55 73L-44 50" fill="#547e9a" stroke="#92cfe2" stroke-width="3"/>
+  <path d="M52 34L68 44L70 66L55 73L44 50" fill="#547e9a" stroke="#92cfe2" stroke-width="3"/>
+  <rect x="-50" y="23" width="100" height="74" rx="27" fill="url(#metal)" stroke="#b9e9f8" stroke-width="3"/>
+  <rect x="-31" y="38" width="62" height="35" rx="14" fill="#0b2338" stroke="#70f0ff" stroke-opacity=".58" stroke-width="2"/>
+  <path d="M-11 56H11" stroke="#55ecf7" stroke-width="5" stroke-linecap="round"/>
+  <circle cy="81" r="4.5" fill="#edbe64"/>
+  <path d="M-27 92L-34 109M27 92L34 109" stroke="#a6d9ea" stroke-width="7" stroke-linecap="round"/>
+  <rect x="-78" y="-67" width="156" height="105" rx="44" fill="url(#metal)" stroke="#cceffd" stroke-width="3.5"/>
+  <rect x="-62" y="-50" width="124" height="72" rx="29" fill="#0a213a" stroke="#3acde2" stroke-width="2.4"/>
+  <circle cx="-29" cy="-16" r="15" fill="#19d7f8" opacity=".25" filter="url(#tinyglow)"/>
+  <circle cx="29" cy="-16" r="15" fill="#19d7f8" opacity=".25" filter="url(#tinyglow)"/>
+  <rect x="-38" y="-22" width="22" height="14" rx="7" fill="#75f7ff"/>
+  <rect x="16" y="-22" width="22" height="14" rx="7" fill="#75f7ff"/>
+  <g>
+    <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;.59;.62;1" dur="6.4s" repeatCount="indefinite"/>
+    <rect x="-38" y="-22" width="22" height="14" rx="7" fill="#75f7ff"/>
+    <rect x="16" y="-22" width="22" height="14" rx="7" fill="#75f7ff"/>
+  </g>
+  <path d="M-13 0Q0 12 13 0" fill="none" stroke="#64e7f2" stroke-width="3.8" stroke-linecap="round"/>
+  <path d="M0 -68V-84" stroke="#bed8e6" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="0" cy="-90" r="8" fill="url(#gold)" stroke="#fff1bd" stroke-width="1.5"/>
+  <circle cx="-81" cy="-18" r="10" fill="#f2c46f" stroke="#d8e8ef" stroke-width="2"/>
+  <circle cx="81" cy="-18" r="10" fill="#f2c46f" stroke="#d8e8ef" stroke-width="2"/>
+  <path d="M-63-58Q0-93 63-58" fill="none" stroke="#f2faff" stroke-opacity=".55" stroke-width="3"/>
+</g>
+</g>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#89aec3" letter-spacing="2">
+<text x="49" y="335">DESIGN  /  BUILD  /  EVOLVE</text>
+<text x="1030" y="335" text-anchor="end">v1.0 • AINEXOR LAB</text>
+</g>
+</svg>
