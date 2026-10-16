@@ -22,9 +22,9 @@ My focus is not simply writing code. **It's designing what's next.**
 
 | | Project | Focus |
 |:--:|:--|:--|
-| <img src="./assets/projects/ainexor.png" width="58" height="58" alt="AINEXOR logo" /> | **AINEXOR** | AI agents, local-first intelligence, intelligent automation and connected systems |
-| <img src="./assets/projects/taelitepro.png" width="58" height="58" alt="TAELITEPRO logo" /> | **TAELITEPRO** | Trading technology, quantitative systems and performance intelligence |
-| <img src="./assets/projects/ngc3.png" width="58" height="58" alt="NGC³ logo" /> | **NGC³ — Next Generation Compression** | A new generation of compression technology |
+| ![AINEXOR logo](https://raw.githubusercontent.com/Jackychat/Jackychat/main/assets/projects/ainexor.png) | **AINEXOR** | AI agents, local-first intelligence, intelligent automation and connected systems |
+| ![TAELITEPRO logo](https://raw.githubusercontent.com/Jackychat/Jackychat/main/assets/projects/taelitepro.png) | **TAELITEPRO** | Trading technology, quantitative systems and performance intelligence |
+| ![NGC³ logo](https://raw.githubusercontent.com/Jackychat/Jackychat/main/assets/projects/ngc3.png) | **NGC³ — Next Generation Compression** | A new generation of compression technology |
 
 ### 🛠 My playground
 
