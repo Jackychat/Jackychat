@@ -23,7 +23,7 @@ My focus is not simply writing code. **It's designing what's next.**
 | | Project | Focus |
 |:--:|:--|:--|
 | 🤖 | **AINEXOR** | AI agents, local-first intelligence, intelligent automation and connected systems |
-| 📈 | **[TAELITEPRO](https://taelitepro-production.up.railway.app/)** | Trading technology, quantitative systems and performance intelligence |
+| 📈 | **TAELITEPRO** | Trading technology, quantitative systems and performance intelligence |
 | ⚡ | **NGC³ — Next Generation Compression** | A new generation of compression technology |
 
 ### 🛠 My playground
