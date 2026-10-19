@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="360" viewBox="0 0 1080 360" role="img" aria-labelledby="title desc">
-<title id="title">AINEXOR — Build the next impossible</title>
+<title id="title">AINVEXOR — Build the next impossible</title>
 <desc id="desc">Futuristic dark blue technology banner with a friendly floating robot, blue and gold lighting, and subtle animation.</desc>
 <defs>
   <linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101e"/><stop offset=".55" stop-color="#0a1830"/><stop offset="1" stop-color="#0b1022"/></linearGradient>
@@ -22,7 +22,7 @@
 <rect x="48" y="78" width="228" height="30" rx="15" fill="#0b2739" stroke="#2fc5db" stroke-opacity=".42"/>
 <circle cx="65" cy="93" r="4.2" fill="#57e5ce"><animate attributeName="opacity" values="1;.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
 <text x="79" y="97" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2.1" fill="#8ce8f5">INNOVATION ENGINE / ONLINE</text>
-<text x="44" y="205" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="900" letter-spacing="7.5" fill="url(#name)">AINEXOR</text>
+<text x="44" y="205" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="900" letter-spacing="7.5" fill="url(#name)">AINVEXOR</text>
 <rect x="47" y="221" width="440" height="2.5" rx="1" fill="#37e0f5" opacity=".65"/>
 <rect x="47" y="221" width="90" height="2.5" rx="1" fill="#fff5b8"><animate attributeName="x" values="47;395;47" dur="6s" repeatCount="indefinite"/></rect>
 <text x="48" y="261" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#eaf5fc">BUILDING WHAT'S NEXT</text>
@@ -78,6 +78,6 @@
 </g>
 <g font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#89aec3" letter-spacing="2">
 <text x="49" y="335">DESIGN  /  BUILD  /  EVOLVE</text>
-<text x="1030" y="335" text-anchor="end">v1.0 • AINEXOR LAB</text>
+<text x="1030" y="335" text-anchor="end">v1.0 • AINVEXOR LAB</text>
 </g>
 </svg>
