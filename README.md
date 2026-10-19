@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ainexor-hero.svg" alt="AINEXOR — futuristic banner with animated floating robot" width="100%" />
+<img src="./assets/ainexor-hero.svg" alt="AINVEXOR — futuristic banner with animated floating robot" width="100%" />
 
 <br/>
 
@@ -22,7 +22,7 @@ My focus is not simply writing code. **It's designing what's next.**
 
 | | Project | Focus |
 |:--:|:--|:--|
-| ![AINEXOR logo](https://raw.githubusercontent.com/Jackychat/Jackychat/main/assets/projects/ainexor.png) | **AINEXOR** | AI agents, local-first intelligence, intelligent automation and connected systems |
+| ![AINVEXOR logo](https://raw.githubusercontent.com/Jackychat/Jackychat/main/assets/projects/ainexor.png) | **AINVEXOR** | AI agents, local-first intelligence, intelligent automation and connected systems |
 | ![TAELITEPRO logo](https://raw.githubusercontent.com/Jackychat/Jackychat/main/assets/projects/taelitepro.png) | **TAELITEPRO** | Trading technology, quantitative systems and performance intelligence |
 | ![NGC³ logo](https://raw.githubusercontent.com/Jackychat/Jackychat/main/assets/projects/ngc3.png) | **NGC³ — Next Generation Compression** | A new generation of compression technology |
 
@@ -44,6 +44,6 @@ My focus is not simply writing code. **It's designing what's next.**
 
 *“The future doesn't arrive. We build it.”*
 
-**AINEXOR · THE NEXT IS NOW**
+**AINVEXOR · THE NEXT IS NOW**
 
 </div>
